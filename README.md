@@ -1,2 +1,2 @@
-# Javascript Notes
-This repository contains the javascript notes for beginners for future reference.
+# My Notes
+This repository contains the notes for beginners for future reference.
